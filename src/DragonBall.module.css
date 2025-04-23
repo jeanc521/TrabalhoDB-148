@@ -1,0 +1,19 @@
+.wrapPage{
+    background-color: rgb(10, 5, 5);
+    color: red;
+    padding-top: 1vh;
+}
+
+.wrapCards{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.title{
+    width: 100px;
+    text-align: center;
+}
