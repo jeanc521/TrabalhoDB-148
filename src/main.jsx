@@ -4,9 +4,6 @@ import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import DragonBall from './DragonBall.jsx'
 
-
-
-
 import {
   createBrowserRouter,
   RouterProvider,

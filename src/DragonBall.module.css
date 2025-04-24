@@ -1,19 +1,31 @@
 .wrapPage{
     background-color: rgb(10, 5, 5);
-    color: red;
+    color: rgb(255, 255, 255);
     padding-top: 1vh;
+    text-align: center;
+    
+}
+
+.input{
+    height: 35px;
+    border-radius: 20px;
+    margin: 10px;
 }
 
 .wrapCards{
+    width: 100px;
     display: flex;
     justify-content: center;
     padding: 10px;
     flex-wrap: wrap;
     align-items: center;
     gap: 10px;
+    background-color: white;
 }
 
 .title{
-    width: 100px;
+    /* width: 200px; */
+    display: flex;
+    justify-content: center;
     text-align: center;
 }

@@ -4,3 +4,10 @@
     box-sizing: border-box;
 }
 
+.navBar{
+    color: red;
+    width: 380px;
+    height: auto;
+    margin-top: -10px;
+}
+
