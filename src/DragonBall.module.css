@@ -29,3 +29,10 @@
     justify-content: center;
     text-align: center;
 }
+
+
+@media (width > 1000px){
+    .wrapPage navbar{
+        padding: 50px;
+    }
+}   
